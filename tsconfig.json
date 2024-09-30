@@ -21,6 +21,6 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "src" //need this commented for delete transaction functionality 
   ]
 }
